@@ -1,0 +1,15 @@
+.conda/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+*.wav
+*.mp3
+*.txt
+*.json
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.pth
+*.zip
